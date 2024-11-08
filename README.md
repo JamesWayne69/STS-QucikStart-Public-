@@ -1,4 +1,6 @@
 # STS Quick Start
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJamesWayne69%2FSTS-QuickStart-Public-.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FJamesWayne69%2FSTS-QuickStart-Public-?ref=badge_shield)
+
 
 ## Introduction
 This repository is meant to help people setup their springboot applications quickly while providing all the basic functionalities, in order to make it scalable, sustainable and secure. <br>
@@ -16,3 +18,7 @@ Any Suggestions and improvements are gladly welcome
 ## Conclusion
 This is a work in progress and any suggestions will be gladly accepted as whether to which functionality you wish have added to this repository or just general programming practices. <br>
 Hope this Readme file gives you enough understanding of repository to use it, if not message me @ athael.raj@gmail.com
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FJamesWayne69%2FSTS-QuickStart-Public-.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FJamesWayne69%2FSTS-QuickStart-Public-?ref=badge_large)
